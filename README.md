@@ -1,4 +1,4 @@
-# Ridehailing-demand-equity
+# 网约车需求预测
 A novel Social Graph Convolution LSTM framework for predicting ride-hailing demand with enhanced social equity considerations, demonstrated through a case study of Chengdu, China.
 
 # Predicting Ride-Hailing Demand with Consideration of Social Equity

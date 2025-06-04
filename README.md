@@ -2,6 +2,12 @@
 本文章提出了一个考虑社会公平性的GCN-LSTM网络对成都市市区范围内网约车的需求进行预测，其中“公平性”主要体现在在原本考虑预测准确性的损失函数（MAE）中加入衡量公平性的指标（MPE）
 本次论文也是作者在深度学习方面的初次尝试，如果有相关的疑问，欢迎提出！
 
+github视频有大小限制，这是讲解视频的网盘链接：
+通过网盘分享的文件：视频讲解-陈欣然.pptx - WPS Office 2025-06-04 19-30-36.mp4
+链接: https://pan.baidu.com/s/1pkZN4I4PKxphNCgJX_974g?pwd=3tce 提取码: 3tce 
+--来自百度网盘超级会员v2的分享
+
+
 # Predicting Ride-Hailing Demand with Consideration of Social Equity
 
 ## Overview
